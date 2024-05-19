@@ -1,0 +1,57 @@
+/*Estilos del footer*/
+
+.footer {
+
+    padding: 10px;
+
+    height: 200px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    gap: 8rem; 
+
+    background-color: black;
+
+    color: white;
+
+    flex-wrap: wrap;
+
+    margin: 5px;
+
+
+}   
+
+ul li{
+
+    list-style: none;
+
+}
+
+.social {
+
+    width: 2em;
+
+    padding-left: 1.5em;
+
+
+
+
+}
+
+.copyright {
+
+    background-color: grey;
+
+    text-align: center;
+
+    font-weight: bold;
+
+    color: white;
+
+
+}
+

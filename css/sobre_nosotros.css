@@ -1,0 +1,51 @@
+/*Estilo de la página sobre nosotros*/
+
+
+
+
+.descripcion {
+
+    margin: 2rem;
+    padding: 2rem;
+    border-radius: 20%;
+    text-align: center;
+    background-color: white;
+
+}
+
+.descripcion div {
+  
+    margin: 1rem;
+
+}
+
+.valores {
+
+    text-align: center;
+    display: flex;
+    gap:2em;
+
+
+}
+
+.centrar {
+
+    text-align: center;
+    padding: 1em;
+}
+
+.valores div {
+    background-color: aquamarine;
+    border-radius: 20%;
+
+}
+
+.valores div img {
+
+    width: 5em;
+}
+
+.contenedor {
+    font-size: larger;
+    padding: 1rem;
+}

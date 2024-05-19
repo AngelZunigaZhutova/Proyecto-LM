@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de entrada</title>
+    <link href="../css/estilos.css" rel="stylesheet">
+
+</head>
+<body>
+    
+
+    <form action="" method="POST" id="formulario">
+    
+        <div class="formulario">
+            <h1>Introduce tus datos de Registro</h1>
+
+            <div class="grupo">
+            <input type="text" name="" id="nombre" ><br>
+            <label for="">Nombre</label>
+        </div>
+
+            <div class="grupo">
+                <input type="email" name="" id="email" ><br>
+                <label for="">Correo</label>
+    
+            </div>
+
+            <div class="grupo">
+                <input type="password" name="" id="password" ><br>
+                <label for="">Contraseña</label>
+    
+            </div>
+
+            <button type="button" id="formulario" onclick="redirigir('/pags/menu.html')">Iniciar Sesión</button>
+
+            <p class="advertecias" id="advertencias"></p>
+
+        </div>
+
+    </form>
+
+    <script src="../js/Validar.js"></script>
+
+    <script>
+        function redirigir(pag) {
+            window.location.href = pag; 
+
+        }
+
+    </script>
+
+</body>
+</html

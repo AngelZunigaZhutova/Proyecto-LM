@@ -1,0 +1,62 @@
+/*Estilos del juego 3 en raya*/
+
+ .contenedor {
+
+    padding: 2em;
+    height: 80vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--bloque-ganador);
+
+ }
+
+ #tablero {
+
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    padding-left: 6em;
+
+ }
+
+ .caja {
+    height: 10rem;
+    width: 10rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--naranja);
+    font-size: 120px;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+}
+
+.caja:nth-child(3n) {
+    border-right: none;
+}
+
+.caja:nth-child(6) .caja {
+    border-bottom: none;
+}
+
+#reinicio {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: var(--naranja);
+    color : black;
+    border-color: var(--naranja);   
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+
+
+}
+
+#reinicio:hover {
+    cursor: pointer;
+    transform: translateY(-2px);
+
+}

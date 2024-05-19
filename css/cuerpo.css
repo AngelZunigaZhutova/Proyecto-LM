@@ -1,0 +1,118 @@
+/*Estilos del cuerpo general que engloba la bola y el libro*/
+
+.cuerpo {
+
+    border: 1px solid black;
+
+    height: 500px;
+
+    margin: 10px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    gap: 2em;
+
+    justify-content: flex-end;
+
+
+}
+
+.cuerpo section {
+
+    width: 20px;
+
+    height: 20px;
+
+    border: 1px solid black;
+
+    background-color:604189 ;
+
+    flex: 1;
+
+    height: 100%;
+
+    display: flex;  
+
+    flex-wrap: wrap;
+
+    background-image: url("../img/OIG1_out.jpeg");
+
+    background-size: cover;
+
+}
+  
+
+.juegos{
+
+    border: 1px solid black ;
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: space-evenly;
+
+    flex-wrap: wrap;
+
+    background-image: url(../img/imagen_piedra.jpeg);
+
+}
+
+
+
+
+
+.juegos a {
+
+    text-align: center;
+
+    padding-top: 10px;
+
+}
+
+.juego:hover {
+
+    width: 11rem;
+    filter: brightness(200%) contrast(120%);
+
+}
+
+
+.juego {
+
+    width: 10rem;
+}
+
+.bola img{
+
+    width: 30rem;
+
+    padding-left: 10rem;
+
+    padding-top: 10px;
+
+}
+
+.cuerpo aside {
+
+
+    width: 30em;
+
+    height: 100%;
+
+    border: 1px solid black;    
+
+    background-image: url(/img/titulo/rocas.png);
+
+}
+
+
+.lateral img {
+
+    width: 30em;
+
+    margin-top: 5rem;
+
+}

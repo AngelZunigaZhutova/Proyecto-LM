@@ -1,0 +1,21 @@
+/*Estilos globales aplicados a todos los elementos*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #2c1f3d;
+    font-family: 'Lexend';
+    background-image: url("../img/_de81a389-db6c-46b2-a468-2dc1fdc71d75_out.png");
+
+}
+
+.anterior {
+
+    width: 5rem;
+    margin: 1%;
+}
+

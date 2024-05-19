@@ -1,0 +1,35 @@
+/*Estilos del título*/
+
+.titulo {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    background-image: url(/img/titulo/fondo3.png);
+
+}
+
+.title {
+
+    width: 10rem;
+
+
+
+}
+
+.logo {
+
+    width: 10rem;
+    
+
+}
+
+.logo:hover {
+
+    width: 11rem;
+    filter: brightness(200%) contrast(120%);
+
+}

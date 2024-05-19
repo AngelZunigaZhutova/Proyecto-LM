@@ -1,0 +1,21 @@
+/*CSS de los juegos*/
+
+#titulo_jue  {
+
+    text-align: center;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: brown;
+    width: 10rem;
+    margin-left: 40%;
+
+    
+}
+
+.juego_jue {
+
+    text-align: center;
+    border: 1px solid black;
+    height: 700px;
+    margin: 2rem;
+}

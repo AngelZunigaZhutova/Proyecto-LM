@@ -1,0 +1,111 @@
+
+<!-- Documento CSS para la sindicación de contenido  -->
+
+<?xmlnl version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+    <title>Feed de Gamelot</title>
+    <link>https://pages.github.com/</link>
+    <description>Contenido relacionado con  el desarrollo de programas en JavaScript de forma libre</description>
+    <language>es</language>
+
+        <item>
+
+            <title>Aprende JavaScript practicando: desarrolla tus propios juegos</title>
+            <link>https://www.softzone.es/noticias/general/aprender-javascript-desarrollar-juegos/</link>
+            <description>Empezar de cero en el sector del software no es facil, sin embargo hay diferentes formas, entretenidad de comenzar</description>
+            
+        </item>
+
+        <item>
+
+            <title>Aprende JavaScript con un juego</title>
+            <link>https://aulab.es/noticia/163/aprender-javascript-con-un-juego</link>
+            <description>El lenguaje Javascript es un lenguaje de scripting basado en la web muy popular ahora. Todos los sitios web utilizan JavaScript. Por eso aprender Javascript es un requisito fundamental</description>
+
+        </item>
+
+        <item>
+
+            <title>Los lenguajes de programación más utilizados en el desarrollo de videojuegos</title>
+            <link>https://noticiasdelaciencia.com/art/48097/los-lenguajes-mas-utilizados-en-el-desarrollo-de-videojuegos#google_vignette</link>
+            <description>La industria de los videojuegos ha recibido la revolución tecnológica en la que vivimos con los brazos abiertos, ya que ha sabido adaptar y explotar al máximo el potencial de muchas de esas mejoras digitales</description>
+
+        </item>
+
+        <item>
+
+            <title>Introducción al Desarrollo de Juegos en HTML5 con Phaser y la API de Orientación de Dispositivos</title>
+            <link>https://developer.mozilla.org/es/docs/Games/Tutorials/HTML5_Gamedev_Phaser_Device_Orientation</link>
+            <description>En este tutorial iremos a través del proceso de construcción de un juego en HTML5 para móviles que utilizará las APIs de Orientación para Dispositivos y Vibración para mejorar la jugabilidad y estará construido utilizando el framework Phaser</description>
+
+        </item>
+
+        <item>
+
+            <title>Cómo crear el juego de la serpiente en JavaScript</title>
+            <link>https://www.freecodecamp.org/espanol/news/juego-de-la-serpiente-como-crearlo-con-javascript/</link>
+            <description>El juego de la serpiente es un juego sencillo en el que una serpiente se mueve adentro de una caja y trata de comerse una manzana. </description>
+
+        </item>
+
+        <item>
+
+            <title>¿Cuál es mejor para hacer videojuegos, javaScript o Pyton</title>
+            <link>https://es.quora.com/Cu%C3%A1l-es-mejor-para-hacer-videojuegos-javascript-o-python</link>
+            <description>Cualquier juego de plataformas decente, incluso con físicas sencillas, se puede implementar en ambos, aunque probablemente en javascript consigas mejor velocidad de refresco por las mejoras que han hecho los navegadores en los últimos años.</description>
+
+        </item>
+
+        <item>
+
+            <title>Curso de Programación de videojuegos online: Especialista TIC en programación de videojuegos con HTML5, JavaScritp y CSS3</title>
+            <link>https://www.euroinnova.hn/programacion-videojuegos-html5-javascript-online</link>
+            <description>Tras finalizar mis estudios en programación, me quería especializar en el ámbito de los videojuegos. Destaco todas las facilidades que se dan para superar esta formación</description>
+
+        </item>
+
+        <item>
+
+            <title>El papel crucial de JavaScript en el desarrollo web moderno</title>
+            <link>https://blog.shakersworks.com/es-es/papel-crucial-javascript-desarrollo-web</link>
+            <description>Potencia tu desarrollo web con JavaScript. Encuentra expertos en Shakers crea experiencias interactivas</description>
+
+        </item>
+
+        <item>
+
+            <title>Claves en el desarrollo web con JavaScript</title>
+            <link>https://www.tokioschool.com/noticias/desarrollo-web-javascript/</link>
+            <description>El desarrollo web con JavaScript es fundamental para que los sitios que visitamos todos los días funcionen correctamente. Un lenguaje de programación que se combina con otros para dar forma a los sitios web</description>
+
+        </item>
+
+        <item>
+
+            <title>Tendencias en Desarrollo web para 2023</title>
+            <link>https://www.europe-samsung.com/smsdev/Noticias/Detalle/tendencias_en_desarrollo_web_para_2023/d538ec54-bc4b-459c-9b1f-90247fcd1b17</link>
+            <description>El desarrollo web con JavaScript es fundamental para que los sitios que visitamos todos los días funcionen correctamente. Un lenguaje de programación que se combina con otros para dar forma a los sitios web</description>
+
+        </item>
+
+        <item>
+
+            <title>Mantenerse al día en programación y desarrollo web a través de newsletters</title>
+            <link>https://pablosirera.com/blog/mantenerse-actualizado-en-programacion-y-desarrollo-web-con-newsletters/</link>
+            <description>En el rápido mundo de la programación y, en particular, del desarrollo web, surgen nuevos marcos de trabajo, tecnologías, bibliotecas y recursos prácticamente a diario. Esto puede dificultar el seguimiento de todo. </description>
+
+        </item>
+
+        <item>
+
+            <title>Java vs JavaScript: Qué lenguaje de programación aprender en 2024</title>
+            <link>https://www.hackaboss.com/blog/java-javascript-lenguaje-programacion-estudiar</link>
+            <description>Aunque ambos son lenguajes de programación ampliamente utilizados por cientos de miles de empresas del sector IT, es necesario que sepas que ambos tienen sus propias fortalezas y debilidades y, por lo tanto, puede que existan propósitos para los que uno es más recomendable que el otro.</description>
+
+        </item>
+
+
+    </channel>
+</rss>

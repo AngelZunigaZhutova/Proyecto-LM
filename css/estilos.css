@@ -1,0 +1,14 @@
+/*Estilos generales del documento*/
+
+@import url("global.css");
+@import url("colores.css");
+@import url("nav.css");
+@import url("section.css");
+@import url("cuerpo.css");
+@import url("footer.css");
+@import url("titulo.css");
+@import url("sobre_nosotros.css");  
+@import url("juegos.css");
+@import url("3enraya.css");
+@import url("dinosaurio.css");
+@import url("Formulario.css");

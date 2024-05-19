@@ -1,0 +1,76 @@
+/*Estilo del nav*/
+
+nav  {
+
+    border: 1px 0px 1px 0px;
+
+    border-top: solid white;
+
+    border-bottom: solid white;
+
+    margin: 2em 1em 2em 1em;
+
+    padding: 1rem 0rem 1rem 0rem;
+
+    display: flex;
+
+    justify-content: space-evenly; /*Separa los elementos y los separa*/
+
+    background-color: #604189;
+
+    background-image: url(/img/titulo/fondo2.png);
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}
+
+
+/*Etiquetas a dentro del nav*/
+.navbar a {
+
+    color: white;
+
+    padding: 5px 10px 5px 10px;
+
+
+
+}
+
+.navbar a:hover {
+
+    border-top: 2px solid gold;
+
+    border-bottom: 2px solid gold;
+
+    color: yellow;
+
+    box-shadow: 5px 5px 10px rgba(10,10,10,10);
+
+    transition: box-shadow 0.5s ease;
+
+    background-color: #3e295d ;
+
+}
+
+.navbar a img {
+
+    width: 4em;
+
+
+}
+
+.navbar a img:hover {
+
+    width: 5em;
+
+    filter: brightness(150%) contrast(120%);
+
+
+}
+
+
+
+
+
